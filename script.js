@@ -16,7 +16,7 @@ setTimeout(() => {
 }, 50)
 
 // my api key for omdb api
-const apiKey = "b6a3074c";
+const apiKey = "";
 
 // page number for pagination
 let currentPage = 1;
